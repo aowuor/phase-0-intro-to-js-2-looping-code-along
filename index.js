@@ -19,25 +19,3 @@ function countDown(number){
     }
 }
 countDown(10);
-
-
-
-
-// function writeCards(names){
-//     let newArr = [];
-//     for (let i = 0; i < names.length; i++){
-//         newArr.push(`Thank you, ${names[i]}, for the wonderful surprise gift!`); 
-//     }
-//     return newArr;
-// }
-
-
-// function countDown(n){
-//     let i = 0;
-
-//     while (n < 10){
-//         console.log(n);
-//         n--;
-//     }
-//     console.log(n);
-// }
